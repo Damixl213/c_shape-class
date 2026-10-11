@@ -1,0 +1,14 @@
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\bin\Debug\net10.0\week1.exe
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\bin\Debug\net10.0\week1.deps.json
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\bin\Debug\net10.0\week1.runtimeconfig.json
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\bin\Debug\net10.0\week1.dll
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\bin\Debug\net10.0\week1.pdb
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\week1.AssemblyInfoInputs.cache
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\week1.AssemblyInfo.cs
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\week1.csproj.CoreCompileInputs.cache
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\week1.dll
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\refint\week1.dll
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\week1.pdb
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\week1.genruntimeconfig.cache
+C:\Users\Oluwasore\OneDrive\Coding\Freecodeclass\C#\Introductionto C#\week1\obj\Debug\net10.0\ref\week1.dll
